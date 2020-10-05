@@ -16,7 +16,7 @@ const data = {
   pre_schemeUrl: 'https://ds.alipay.com/?scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FappId%3D20000067%26url%3Dhttps%253A%252F%252Frender-pre.alipay.com%252Fp%252Fw%252Fseeconftwa%252Fwww%252Fenrol.html%253F__webview_options__%253D',
   banner: {
     enName: [
-      <span key="1">Seeking customers trust</span>,
+      <span key="1">Seeking Customers Trust</span>,
     ],
     title: 'As PanelTech pressure to experience our customers taste.',
     cnName: 'PanelTech on our hearts, Sacrify is our strong part, Halt us requires more energy.',
