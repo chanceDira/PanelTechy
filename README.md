@@ -3,7 +3,7 @@
 
 ## preview
 
-https://paneltechltd.web.app/
+https://paneltechrw.web.app/
 
 ## install
 ```
