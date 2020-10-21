@@ -6,7 +6,7 @@ const { Link } = ScrollAnim;
 
 export default class Header extends React.PureComponent {
   getHeaderChildToRender = () => (
-    [ 
+    [
       <Link className="logo" to="screen0" toHash={false} key="logo" />,
       <nav key="nav">
         {!this.props.isMobile && (

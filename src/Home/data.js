@@ -25,6 +25,7 @@ const data = {
     title: 'Popular services',
     coming: '更多重量级大咖，敬请期待',
     row: [
+      { src: 'https://media.istockphoto.com/photos/surveillance-street-camera-in-city-and-icons-picture-id1174652880', name: 'CCTV', post: 'Security Camera installation' },
       { src: 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpEv-XNLhNqN7wD2VXATr0mSfAvoZhMEuImw&usqp=CAU', name: 'Printing', post: 'Printing and Binding' },
       { src: 'https://cdn.pixabay.com/photo/2013/07/13/11/36/charger-158460_960_720.png', name: 'Battery', post: 'Computer Battery replacement' },
       { src: 'https://d3nevzfk7ii3be.cloudfront.net/igi/nckvVlDQQhYMMxR4.full', name: 'Maintenance', post: 'Computer repairing' },
